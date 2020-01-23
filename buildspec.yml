@@ -17,6 +17,7 @@ artifacts:
      - java-hello-world.war
      - .ebextensions/**/*
 #reports: #New
+#reports: #New
  # SurefireReports: # CodeBuild will create a report group called "SurefireReports".
     # files: #Store all of the files
     #  - '**/*'
